@@ -1,0 +1,9 @@
+Pathway	Category	KEGG_Pathways
+Cellular Processes	Cellular Processes
+Environmental Information Processing	Environmental Information Processing
+Genetic Information Processing	Genetic Information Processing
+Human Diseases	Human Diseases
+Metabolism	Metabolism
+None	None
+Organismal Systems	Organismal Systems
+Unclassified	Unclassified
